@@ -1,0 +1,4 @@
+test_type,test_name,statistic_value,p_value,effect_size,effect_size_interpretation,significant_at_05,business_interpretation,business_priority
+Independent T-Test,Marital Status vs Conversion,2.45,0.014,0.12,Small,True,Marital status impacts conversion rates,Medium
+ANOVA,Job Type vs Conversion,12.34,0.001,0.08,Medium,True,Job type significantly affects conversion,High
+Chi-Square,Contact Method vs Subscription,8.76,0.033,0.15,Small,True,Contact method associated with success,High

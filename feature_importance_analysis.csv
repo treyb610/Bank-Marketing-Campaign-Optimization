@@ -1,0 +1,27 @@
+model_name,feature_name,importance_score,importance_percentage,feature_rank,feature_category,importance_tier
+Random Forest,duration,0.5099960138279848,50.999601382798474,2,Campaign,Critical
+Random Forest,poutcome_encoded,0.09532338073453063,9.532338073453063,13,Financial,High
+Random Forest,month_encoded,0.08317818602446178,8.317818602446177,12,Contact,High
+Random Forest,age,0.06670959023037341,6.670959023037342,1,Demographic,High
+Random Forest,contact_encoded,0.05628318383710431,5.628318383710431,11,Contact,High
+Random Forest,previous,0.04861560003826,4.861560003826,4,Campaign,Medium
+Random Forest,housing_encoded,0.048072217242040964,4.807221724204096,9,Financial,Medium
+Random Forest,campaign,0.0295380901360265,2.95380901360265,3,Campaign,Medium
+Random Forest,job_encoded,0.022566249196327905,2.2566249196327903,5,Demographic,Medium
+Random Forest,education_encoded,0.014206899523777782,1.4206899523777783,7,Demographic,Medium
+Random Forest,loan_encoded,0.012238363258438106,1.2238363258438105,10,Financial,Medium
+Random Forest,marital_encoded,0.01203957840223184,1.203957840223184,6,Demographic,Medium
+Random Forest,default_encoded,0.0012326475484419554,0.12326475484419554,8,Financial,Low
+Gradient Boosting,duration,0.46863184264648866,46.863184264648865,2,Campaign,Critical
+Gradient Boosting,month_encoded,0.12580190410794245,12.580190410794245,12,Contact,Critical
+Gradient Boosting,poutcome_encoded,0.11185088761771556,11.185088761771556,13,Financial,Critical
+Gradient Boosting,age,0.07001089830478834,7.001089830478834,1,Demographic,High
+Gradient Boosting,housing_encoded,0.061914087252704836,6.191408725270484,9,Financial,High
+Gradient Boosting,previous,0.0478120524731707,4.78120524731707,4,Campaign,Medium
+Gradient Boosting,contact_encoded,0.0427455676595026,4.274556765950259,11,Contact,Medium
+Gradient Boosting,campaign,0.025268957924870997,2.5268957924870996,3,Campaign,Medium
+Gradient Boosting,job_encoded,0.016151667907757076,1.6151667907757077,5,Demographic,Medium
+Gradient Boosting,education_encoded,0.01133813795072659,1.133813795072659,7,Demographic,Medium
+Gradient Boosting,loan_encoded,0.010974516777125083,1.0974516777125083,10,Financial,Medium
+Gradient Boosting,marital_encoded,0.006446318378259055,0.6446318378259055,6,Demographic,Low
+Gradient Boosting,default_encoded,0.0010531609989480654,0.10531609989480653,8,Financial,Low
