@@ -59,10 +59,3 @@ A Portuguese bank needed to optimize their direct marketing campaigns for term d
 2. **Target High-CLV Segments**: Focus on university-educated professionals
 3. **Optimize Call Duration**: 4-6 minutes shows peak effectiveness
 4. **Seasonal Planning**: May-July optimal for campaign launches
-
-##  Quick Start
-
-### 1. Clone Repository
-```bash
-git clone https://github.com/yourusername/bank-marketing-optimization.git
-cd bank-marketing-optimization
