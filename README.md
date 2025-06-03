@@ -1,4 +1,4 @@
-# 🏦 Bank Marketing Campaign Optimization
+#  Bank Marketing Campaign Optimization
 ### Advanced Data Analytics & Predictive Modeling Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -6,20 +6,20 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](notebooks/)
 [![Dashboard](https://img.shields.io/badge/Dashboard-Looker%20Studio-purple.svg)](dashboards/)
 
-## 📊 Project Overview
+##  Project Overview
 
 A Portuguese bank needed to optimize their direct marketing campaigns for term deposit subscriptions. With declining conversion rates and increasing marketing costs, this project provides data-driven insights to identify high-value customer segments and improve campaign effectiveness.
 
 **Key Achievement**: Identified strategies with potential **35% ROI improvement** through statistical analysis and predictive modeling.
 
-## 🎯 Business Impact
+##  Business Impact
 
 - **Campaign ROI Optimization**: 10-35% improvement potential
 - **Targeting Efficiency**: 15-25% through demographic optimization  
 - **Statistical Validation**: 6 hypothesis tests with 83% significant results
 - **Predictive Performance**: 91.2% accuracy with Random Forest model
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 **Analysis Environment**
 - Python 3.8+, Jupyter Notebook
@@ -42,7 +42,7 @@ A Portuguese bank needed to optimize their direct marketing campaigns for term d
 - HTML Export via GitHub Pages
 - Interactive Visualizations
 
-## 📈 Key Findings
+##  Key Findings
 
 ### Statistical Insights
 - **Cellular vs Telephone**: 18% conversion increase (Cohen's d = 0.42)
@@ -60,7 +60,7 @@ A Portuguese bank needed to optimize their direct marketing campaigns for term d
 3. **Optimize Call Duration**: 4-6 minutes shows peak effectiveness
 4. **Seasonal Planning**: May-July optimal for campaign launches
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone Repository
 ```bash
